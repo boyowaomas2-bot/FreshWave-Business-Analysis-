@@ -6,9 +6,9 @@
 
 **_INTRODUCTION, OVERVIEW AND PURPOSE OF THE BRIEFS_:**
 The project was set to find ways to address the respective concerns of the Finance, Retention and Marketing Teams,
-tailored towards company’s operational efficiency in terms of revenue growth prospects, focusing on new strategic 
-customer-oriented actions and measures for continued patronage with targeted service delivery plans to mitigate 
-high customer turnover, and achieving a steady revenue generation level, sustained customer service efficiency, 
+tailored towards company’s operational efficiency in terms of revenue growth prospects, and focusing on new strategic 
+customer-oriented actions, including measures for continued patronage, and targeted service delivery plans to mitigate 
+high customer turnover, to achieve a steady revenue generation level, sustained customer service efficiency, as well as
 general business growth and overall profitability. 
 
 **_STATEMENT OF PROBLEM_:**
@@ -24,22 +24,23 @@ below:
       To find a way to identify and flag customers that are likely to cancel the services they signed for,
       so they can be contacted proactively.
 3.	**_MARKETING TEAM_:**
-      To find a way for segmentation and grouping of customers for targeted and meaningful campaigns so
-  	  they can same generic promotions to everyone.
+      To find a way for the segmentation and grouping of customers for targeted and meaningful campaigns, so
+  	  they can stop sending the same generic promotions to everyone.
 
 **_METHODOLOGY AND APPROACH_:**
-    * The approach considered handling the different scenarios as external briefs from different clients... Methodology includes:
-        1. Data Collection: Historical Telco Churn Dataset - Sourced from Kaggle
-        2. Data Cleaning: Removed blank spaces and null values, changed datatypes, encoded and scaled data etc
+     The approach considered handling the different scenarios as external briefs from different clients. Methodology includes:
+        1. Data Collection: Historical company dataset provided and made available. 
+        2. Data Cleaning: Removed blank spaces and null values, changed datatypes, encoded and scaled data, etc.
         3. Data Modeling: Split test/train sets, trained, fitted, tested and predicted models but no train/test split for K- Means
-        4. Visualization Designs: Created charts to show segmentation cluster groups and their relationships to reflect Telco customers. 
+        4. Visualization Designs: Created charts, showing segmentation cluster groups and their relationships to reflect company's 
+           customers grouping arrangement. 
         
     * The respective concerns were subjected to relevant and appropriate scientific analysis, with the same 
-      customer information data provided, for observations and predictions from the different supervised and
-      unsupervised machine learning models used.
+      customer information data as provided, for observations and predictions, from the different supervised and
+      unsupervised machine learning models used, as applicable with the independent and dependent variables of the data.
       
-    * The predictive outcomes were evaluated with relevant metrics assess the reliability and consistency of the models 
-      applied on the data to establish the correctness of the findings and insights, give useful recommendations for
+    * The predictive outcomes were evaluated with relevant metrics to assess the reliability and consistency of the models, 
+      applied on the data, to establish the correctness of the findings and insights, give useful recommendations for
       management decisions, towards meaningful, proactive and necessary measures to address the concerns, and achieve 
       the set goals for company’s improved performance and stability.
 
@@ -114,15 +115,15 @@ below:
 **_CONCLUSION_**
 It is clear from the analysis above that there is a strong connection between the concerns of each team and the overall operational
 performance of the business. The inter-relatedness focuses on customers to determine required actions for the teams and available 
-services provided. 
+services provided and new product lines. 
       
 The concern of the Finance Team rests firmly on the success of the Retention and Marketing Teams, and the recommended action plans. 
 These include proactive retention measures to minimize loss of customers, the ability of the Marketing Team to introduce effective 
-customer segmentation for target-based and group-oriented campaigns, improved customer service delivery efficiency, to increase 
-customer numbers and patronage with new branding ideas.
+customer segmentation strategies, for target-based and group-oriented campaigns, improved customer service delivery efficiency, with more
+customer numbers and patronage from the new branding ideas.
       
-The accomplishment of these combined operating strategies proactively, is geared towards a new and higher revenue level, and capacity
-to achieve new growth levels, operational efficiency and improved profitability.
+The goal of accomplishing these combined operating strategies proactively, is geared towards a new and higher revenue level, increased
+customer numbers and higher capacity with a new range of services, to achieve new growth levels, operational efficiency and profitability.
 
 **_TOOLS AND TECHNOLOGY USED FOR CREATING AND BUILDING MODELS_**
     1. **_Supervised Machine Learning Algorithm_:**
